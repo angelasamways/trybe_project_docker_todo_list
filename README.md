@@ -1,10 +1,14 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+### README
+
+Este projeto foi desenvolvido durante o período de Curso da Trybe 🚀
+
+Para este projeto, foi conteinerizada as aplicações de frontend, backend e testes, criado uma conexão entre elas e orquestrado seu funcionamento! 🐋
+
+Habilidades:
+
+	•	Rodar imagens do Docker Hub;
+	•	Criar imagens com Docker;
+	•	Gerar contêineres para as aplicações;
+	•	Persistir dados dos containers utilizando volumes;
+	•	Criar arquivos Compose;
+	•	Gerenciar Services , Network e Volumes a partir do Compose;
